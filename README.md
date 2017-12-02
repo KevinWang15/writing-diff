@@ -1,5 +1,7 @@
 # writing-diff
-Using ```git-diff``` to print the diff between original & revised version of a writing to an html file.
+Using ```git-diff``` to print the diff between original & revised version of a piece of writing to an html file.
+
+![demo](demo.png)
 
 ## Usage
 
